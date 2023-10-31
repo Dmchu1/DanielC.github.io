@@ -1,0 +1,40 @@
+body {
+  background: darkgreen;
+}
+img{
+  height:200px;
+  width:325px;
+  float:none;
+  border-color: saddlebrown;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50px;
+  border-style:groove;
+}
+p {
+  color: white;
+  font-family: fantasy;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: saddlebrown;
+  font-family: monospace;
+  text-decoration: underline;
+  letter-spacing: 5px;
+  margin: 20px;
+}
+ul {
+  color:white
+}
+.coolcolor {
+  background-color: rgb(19, 177, 55);
+}
+h2 {
+  font-weight: bold;
+  text-align: center;
+  color: saddlebrown;
+  font-family: monospace;
+  text-decoration: underline;
+  letter-spacing: 5px;
+  font-size: 25px
